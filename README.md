@@ -4,7 +4,7 @@ Unpack the content to your desired destination.
 
 qa test - Automation Testing.zip
 contains:
-Eclipse Maven and Junit project, import the project in eclipse and it will appear under the name WebDriver.In the package Selenium.qaAutomationTest, run App.java as Java Applicationand the application should run. Test menu will appear in the eclipse console.
+1. Eclipse Maven and Junit project, import the project in eclipse and it will appear under the name WebDriver.In the package Selenium.qaAutomationTest, run App.java as Java Applicationand the application should run. Test menu will appear in the eclipse console.
 Select one of the tests offered and the application will perform a series of several assigned tests. 
 
 qa test - ManualTest.zip
